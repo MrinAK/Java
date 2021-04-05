@@ -1,1 +1,1 @@
-# Java-Workshops
+# Workshops
